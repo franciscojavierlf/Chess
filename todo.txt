@@ -1,0 +1,2 @@
+-Falta detectar coronación
+-Falta error de torre en esquina
